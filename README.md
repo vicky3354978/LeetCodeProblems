@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vicky3354978/LeetCodeProblems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/vicky3354978/LeetCodeProblems/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vicky3354978/LeetCodeProblems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0704-binary-search](https://github.com/vicky3354978/LeetCodeProblems/tree/master/0704-binary-search) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/vicky3354978/LeetCodeProblems/tree/master/0747-largest-number-at-least-twice-of-others) |
 ## Two Pointers
 |  |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vicky3354978/LeetCodeProblems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0704-binary-search](https://github.com/vicky3354978/LeetCodeProblems/tree/master/0704-binary-search) |
 ## Sorting
 |  |
 | ------- |
