@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/vicky3354978/LeetCodeProblems/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/vicky3354978/LeetCodeProblems/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vicky3354978/LeetCodeProblems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/vicky3354978/LeetCodeProblems/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/vicky3354978/LeetCodeProblems/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/vicky3354978/LeetCodeProblems/tree/master/0704-binary-search) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/vicky3354978/LeetCodeProblems/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/vicky3354978/LeetCodeProblems/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/vicky3354978/LeetCodeProblems/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/vicky3354978/LeetCodeProblems/tree/master/0169-majority-element) |
 ## Binary Search
 |  |
 | ------- |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/vicky3354978/LeetCodeProblems/tree/master/0169-majority-element) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/vicky3354978/LeetCodeProblems/tree/master/0747-largest-number-at-least-twice-of-others) |
 ## Bit Manipulation
 |  |
@@ -54,4 +57,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/vicky3354978/LeetCodeProblems/tree/master/0013-roman-to-integer) |
 | [0344-reverse-string](https://github.com/vicky3354978/LeetCodeProblems/tree/master/0344-reverse-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/vicky3354978/LeetCodeProblems/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/vicky3354978/LeetCodeProblems/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/vicky3354978/LeetCodeProblems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
