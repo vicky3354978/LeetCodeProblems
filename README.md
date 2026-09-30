@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/vicky3354978/LeetCodeProblems/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/vicky3354978/LeetCodeProblems/tree/master/1929-concatenation-of-array) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vicky3354978/LeetCodeProblems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/vicky3354978/LeetCodeProblems/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/vicky3354978/LeetCodeProblems/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/vicky3354978/LeetCodeProblems/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/vicky3354978/LeetCodeProblems/tree/master/0169-majority-element) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/vicky3354978/LeetCodeProblems/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Binary Search
 |  |
 | ------- |
