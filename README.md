@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/vicky3354978/LeetCodeProblems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/vicky3354978/LeetCodeProblems/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/vicky3354978/LeetCodeProblems/tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/vicky3354978/LeetCodeProblems/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/vicky3354978/LeetCodeProblems/tree/master/0172-factorial-trailing-zeroes) |
 | [0412-fizz-buzz](https://github.com/vicky3354978/LeetCodeProblems/tree/master/0412-fizz-buzz) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/vicky3354978/LeetCodeProblems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -97,4 +98,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/vicky3354978/LeetCodeProblems/tree/master/1913-maximum-product-difference-between-two-pairs) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/vicky3354978/LeetCodeProblems/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/vicky3354978/LeetCodeProblems/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
