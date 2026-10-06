@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/vicky3354978/LeetCodeProblems/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/vicky3354978/LeetCodeProblems/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/vicky3354978/LeetCodeProblems/tree/master/0412-fizz-buzz) |
+| [0856-score-of-parentheses](https://github.com/vicky3354978/LeetCodeProblems/tree/master/0856-score-of-parentheses) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -106,4 +107,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/vicky3354978/LeetCodeProblems/tree/master/0070-climbing-stairs) |
+## Stack
+|  |
+| ------- |
+| [0856-score-of-parentheses](https://github.com/vicky3354978/LeetCodeProblems/tree/master/0856-score-of-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0856-score-of-parentheses](https://github.com/vicky3354978/LeetCodeProblems/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
