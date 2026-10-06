@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/vicky3354978/LeetCodeProblems/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vicky3354978/LeetCodeProblems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/vicky3354978/LeetCodeProblems/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/vicky3354978/LeetCodeProblems/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/vicky3354978/LeetCodeProblems/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/vicky3354978/LeetCodeProblems/tree/master/0704-binary-search) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/vicky3354978/LeetCodeProblems/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/vicky3354978/LeetCodeProblems/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/vicky3354978/LeetCodeProblems/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/vicky3354978/LeetCodeProblems/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/vicky3354978/LeetCodeProblems/tree/master/0217-contains-duplicate) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/vicky3354978/LeetCodeProblems/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Binary Search
 |  |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/vicky3354978/LeetCodeProblems/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/vicky3354978/LeetCodeProblems/tree/master/0217-contains-duplicate) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/vicky3354978/LeetCodeProblems/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vicky3354978/LeetCodeProblems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/vicky3354978/LeetCodeProblems/tree/master/1913-maximum-product-difference-between-two-pairs) |
