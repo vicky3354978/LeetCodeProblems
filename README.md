@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/vicky3354978/LeetCodeProblems/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/vicky3354978/LeetCodeProblems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/vicky3354978/LeetCodeProblems/tree/master/0217-contains-duplicate) |
+| [0389-find-the-difference](https://github.com/vicky3354978/LeetCodeProblems/tree/master/0389-find-the-difference) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/vicky3354978/LeetCodeProblems/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Binary Search
 |  |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/vicky3354978/LeetCodeProblems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/vicky3354978/LeetCodeProblems/tree/master/0217-contains-duplicate) |
+| [0389-find-the-difference](https://github.com/vicky3354978/LeetCodeProblems/tree/master/0389-find-the-difference) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/vicky3354978/LeetCodeProblems/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vicky3354978/LeetCodeProblems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/vicky3354978/LeetCodeProblems/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/vicky3354978/LeetCodeProblems/tree/master/0136-single-number) |
+| [0389-find-the-difference](https://github.com/vicky3354978/LeetCodeProblems/tree/master/0389-find-the-difference) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/vicky3354978/LeetCodeProblems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## String
 |  |
@@ -75,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/vicky3354978/LeetCodeProblems/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/vicky3354978/LeetCodeProblems/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/vicky3354978/LeetCodeProblems/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/vicky3354978/LeetCodeProblems/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/vicky3354978/LeetCodeProblems/tree/master/0412-fizz-buzz) |
 | [0856-score-of-parentheses](https://github.com/vicky3354978/LeetCodeProblems/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/vicky3354978/LeetCodeProblems/tree/master/1021-remove-outermost-parentheses) |
